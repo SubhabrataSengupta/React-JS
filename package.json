@@ -1,0 +1,17 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "description": "Reacy JS Subhabrata",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Subhabrata",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
